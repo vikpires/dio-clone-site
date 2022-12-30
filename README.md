@@ -3,7 +3,7 @@
 <strong>❯❯:zap: Challenge:</strong>
 - Create a [DIO site](https://www.dio.me) clone with Javascript and React.  
 
-<strong>❯❯:compass: Goal:</strong>
+<strong>❯❯:compass: Description:</strong>
 - Apply all concepts learned during Javascript and React courses to create a clone of home, login and feed page from [DIO site](https://www.dio.me).
 
 <strong>❯❯:hammer_and_wrench: Languages & Tools:</strong>
